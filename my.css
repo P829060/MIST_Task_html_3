@@ -3,15 +3,34 @@
   -webkit-text-stroke-color: black;
  }
 
- .text-overlay {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    border-radius: 5px;
-    font-size: 60px;
-  }
+.text-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 5px;
+  font-size: 60px;
+}
 
-  html {
-    scroll-behavior: smooth;
-  }
+html {
+  scroll-behavior: smooth;
+}
+.abril-fatface-regular {
+  font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bad-script-regular {
+  font-family: "Bad Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rochester-regular {
+  font-family: "Rochester", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+  
